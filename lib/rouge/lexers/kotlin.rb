@@ -3,7 +3,7 @@
 module Rouge
   module Lexers
     class Kotlin < RegexLexer
-      title "Java"
+      title "Kotlin"
       desc "Kotlin <http://kotlinlang.org>"
 
       tag 'kotlin'
